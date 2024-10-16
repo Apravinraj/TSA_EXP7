@@ -1,5 +1,5 @@
-# Developed By : Pravin Raj A
-# Register No. : 212222240079
+## Developed By : Pravin Raj A
+## Register No. : 212222240079
 
 # Ex.No: 07                                       AUTO REGRESSIVE MODEL
 ### Date: 
